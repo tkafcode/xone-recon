@@ -7,7 +7,7 @@ This fork from the original at medusalix/xone is optimized for `Turtle Beach Rec
 ## Compatibility
 
 - [x] Wired devices (via USB)
-- [x] Wireless devices (with Xbox Wireless Dongle)
+- [ ] Wireless devices (with Xbox Wireless Dongle)
 - [ ] Bluetooth devices (check out [`xpadneo`](https://github.com/atar-axis/xpadneo))
 
 ## Important notes
