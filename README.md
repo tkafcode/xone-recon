@@ -39,9 +39,9 @@ Always update your Xbox devices to the latest firmware version!
 - [ ] Third party racing wheels (Thrustmaster, Logitech, etc.)
 - [x] Xbox One Chatpad
 - [x] Xbox Adaptive Controller
-- [x] Mad Catz Rock Band 4 Wireless Stratocaster
+- [ ] Mad Catz Rock Band 4 Wireless Stratocaster
 
-⚠️ Standalone wireless headsets are currently not supported!
+⚠️ If you want wireless compatibility, get the original from medusalix.
 
 ## Releases
 
