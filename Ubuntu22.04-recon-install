@@ -1,0 +1,5 @@
+####    Install Xone for Turtle Beach Recon driver on Ubuntu 22.04
+
+sudo apt install dkms curl
+cd xone
+sudo ./install.sh --release
