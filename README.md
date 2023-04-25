@@ -1,8 +1,8 @@
-# xone [![Release Badge](https://img.shields.io/github/v/release/medusalix/xone?logo=github)](https://github.com/medusalix/xone/releases/latest) [![Discord Badge](https://img.shields.io/discord/733964971842732042?label=discord&logo=discord)](https://discord.gg/FDQxwWk) [![Donate Button](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/donate?hosted_button_id=BWUECKFDNY446)
+# xone-recon [![Release Badge](https://img.shields.io/github/v/release/medusalix/xone?logo=github)](https://github.com/medusalix/xone/releases/latest) [![Discord Badge](https://img.shields.io/discord/733964971842732042?label=discord&logo=discord)](https://discord.gg/FDQxwWk) [![Donate Button](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/donate?hosted_button_id=BWUECKFDNY446)
 
 `xone` is a Linux kernel driver for Xbox One and Xbox Series X|S accessories. It serves as a modern replacement for `xpad`, aiming to be compatible with Microsoft's *Game Input Protocol* (GIP).
 
-This fork from the original at medusalix/xone is optimized for Turtle Beach Recon controller and works entirely out of the box (at least on Ubuntu 22.04). The optimization includes removal of wireless install, since it's not needed. It also includes an install script for Ubuntu 22.04.
+This fork from the original at medusalix/xone is optimized for `Turtle Beach Recon` controller and works entirely out of the box (at least on Ubuntu 22.04). The optimization includes removal of wireless install, since it's not needed. It also includes an install script for `Ubuntu 22.04.
 
 ## Compatibility
 
